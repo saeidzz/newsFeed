@@ -1,0 +1,5 @@
+
+³
+java:S1598"—This file "App.java" should be located in "$org\example" directory, not in "F:\projects\newsFeed\src\main\resources\archetype-resources\src\main\java".(…ÓÈˆþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÓÈˆþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ž½Ž¦ÿÿÿÿÿ

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: ir.jiring.assignment.Runner
+Class-Path: generex-1.0.2.jar jackson-annotations-2.15.3.jar log4j-1.2.1
+ 7.jar jackson-databind-2.15.3.jar javafaker-1.0.2.jar snakeyaml-1.23-an
+ droid.jar jackson-core-2.15.3.jar automaton-1.11-8.jar commons-lang3-3.
+ 5.jar
+
